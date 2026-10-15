@@ -1,0 +1,6 @@
+{
+  "name": "MPI Container Compliance Agent | The Warehouse Group",
+  "description": "MPI Container Compliance Agent for The Warehouse Group Stage 1 Yard Red Flags monitoring, real-time BACC checking, and devanning approvals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
